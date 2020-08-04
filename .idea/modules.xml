@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sofb-crawler-framework.iml" filepath="$PROJECT_DIR$/.idea/sofb-crawler-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-framework-common/sofb-crawler-framework-common.iml" filepath="$PROJECT_DIR$/sofb-crawler-framework-common/sofb-crawler-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-framework-core/sofb-crawler-framework-core.iml" filepath="$PROJECT_DIR$/sofb-crawler-framework-core/sofb-crawler-framework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-framework-example/sofb-crawler-framework-example.iml" filepath="$PROJECT_DIR$/sofb-crawler-framework-example/sofb-crawler-framework-example.iml" />
+    </modules>
+  </component>
+</project>
